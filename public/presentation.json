@@ -1,0 +1,90 @@
+{
+  "id": "45e0138d-2fff-4bf3-9e42-dd6d0370542b",
+  "name": "Huawei Watch GT 5",
+  "sentences": [
+    {
+      "id": "041eeec9-2bd5-4bf8-bad9-653459bf1b60",
+      "text": "The Huawei Watch GT series is recognized for its quality, with the\nlatest iteration, the Huawei Watch GT 5, attracting attention for its advanced\nfeatures.",
+      "duration": 9912,
+      "voiceOver": "2c2dcf5f-4114-44de-b31f-c9498d0e9f51.mp3",
+      "image": "c40f951d-7fab-4c69-953c-f1682585f034.jpg"
+    },
+    {
+      "id": "a81195ca-2277-4df8-b170-a4c533cc1647",
+      "text": "The transition from earlier models to the Samsung Galaxy Watch occurred due\nto improvements in Samsung's offerings, yet the Huawei watches have unique advantages,\nsuch as extended battery life, which currently appeals to former users.",
+      "duration": 14712,
+      "voiceOver": "88055c5b-f778-4a08-a920-2c0342818a02.mp3",
+      "image": "14cd0f63-79b4-48dc-9129-6fec8b309774.jpg"
+    },
+    {
+      "id": "8e57edbd-b908-458e-adea-9cdbcf71572a",
+      "text": "The Huawei Watch GT 5 presents significant specifications: a 1.43-inch AMOLED display\nwith a resolution of 466×466 pixels, powered by Harmony OS 5.0, and\ncompatible with Android 9.0 and iOS 13.0.",
+      "duration": 15384,
+      "voiceOver": "fa629922-4cbd-459e-ab4b-dedb51996b69.mp3",
+      "image": "9d7cbf36-4a07-4fc2-aa92-e9782dfdd2cc.jpg"
+    },
+    {
+      "id": "9ca1adcd-fc97-4cbf-b21c-73ddb0937684",
+      "text": "The watch supports Bluetooth 5.2, NFC for Huawei Pay, and has a\nrobust 524 mAh battery, boasting a water resistance rating of IP69K, allowing\nfor immersion up to 50 meters.",
+      "duration": 12408,
+      "voiceOver": "416a77fd-b908-4b24-8316-47355ca432a3.mp3",
+      "image": "30dd7a1e-40ad-4ff6-9abf-bc904af138a9.jpg"
+    },
+    {
+      "id": "09819819-e315-4e16-974c-5ec0b718e1f1",
+      "text": "In terms of design, the GT 5 features aesthetic options including a\nstainless-steel casing and interchangeable straps.",
+      "duration": 7632,
+      "voiceOver": "1cb79d94-3790-48e3-a362-4f02d8372864.mp3",
+      "image": "968b7fea-f505-4281-a2d6-df86a7da69ed.jpg"
+    },
+    {
+      "id": "08815248-9532-4110-b7ac-025041b63625",
+      "text": "The device is available in several versions including Pro models, which add\nfeatures like ECG monitoring.",
+      "duration": 6600,
+      "voiceOver": "582a86ca-67d4-4e2e-bdb3-0e0e62f6e188.mp3",
+      "image": "b2246cfd-ff91-44cd-aaf0-32ada4e52d3b.jpg"
+    },
+    {
+      "id": "d09cd3d7-c7b7-41d8-8c80-cf1cbc3d8e41",
+      "text": "The overall design maintains a classic aesthetic, making it suitable for various\noccasions, including formal settings.",
+      "duration": 7320,
+      "voiceOver": "4093ea08-663b-4424-84a8-b13df4ffda11.mp3",
+      "image": "6ce74c6c-b61e-4843-8781-7b6995d746ac.jpg"
+    },
+    {
+      "id": "d110d614-f2de-4b3d-9059-eb153364e48b",
+      "text": "The user interface facilitates easy pairing with smartphones and offers a variety\nof customizable watch faces.",
+      "duration": 7032,
+      "voiceOver": "44a0ff98-4ac2-48fe-b36a-de4a3dfa595a.mp3",
+      "image": "a1bcec2c-c6d4-49bd-b097-4b6db78665d0.jpg"
+    },
+    {
+      "id": "e5bd21a5-f2c0-402f-8e50-2873e8f8874c",
+      "text": "While it provides solid tracking features for sleep and physical activities, it\nlacks navigation capabilities with Google Maps, a feature available in competitor models.",
+      "duration": 10632,
+      "voiceOver": "57f96b40-fa6e-4d6f-9446-aa45c9be58a0.mp3",
+      "image": "9cf84ee2-1f42-42b2-bc0f-d48884d2848f.jpg"
+    },
+    {
+      "id": "8551f36c-453b-4da7-90b1-165a962b13a8",
+      "text": "Battery performance has remained consistent, lasting up to two weeks with optimized settings. ",
+      "duration": 5856,
+      "voiceOver": "8b7735df-d88d-4c69-a77e-0318ab999fc6.mp3",
+      "image": "43e19fb1-abe9-44cf-ba12-a281ef36aee6.jpg"
+    },
+    {
+      "id": "c6f54c1c-5620-4a84-9cc3-e828835d2abb",
+      "text": "Overall, the changes from the previous generation lean towards cosmetic enhancements, while\nthe core functionalities remain largely unchanged.",
+      "duration": 8808,
+      "voiceOver": "29f03f2d-9bac-4b47-a4dc-3e1640292442.mp3",
+      "image": "628347a7-7381-4b84-9ece-cadfeb5bafa8.jpg"
+    },
+    {
+      "id": "d8c723ab-1ac2-455a-9f07-5b7f4ada2aa8",
+      "text": "Despite the impressive attributes of the Huawei Watch GT 5, personal preferences\nregarding payment capabilities and navigation tracking may deter users from switching from\nother brands like Samsung.",
+      "duration": 12792,
+      "voiceOver": "6e7d51f2-cfc8-4ff8-b5aa-a67ab5ac9b20.mp3",
+      "image": "178cb150-a0a1-44e2-ba03-8b926c93d47d.jpg"
+    }
+  ]
+}
