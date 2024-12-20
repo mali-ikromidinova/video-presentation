@@ -69,8 +69,8 @@ const PlayerApp = ({ data }) => {
   const handleEnded = () => {
     if (currentIndex + 1 < data.sentences.length) {
       setCurrentIndex(currentIndex + 1);
-      setSlideProgress(0);
-      setProgress(0);
+      // setSlideProgress(0);
+      // setProgress(0);
     } else {
       setCurrentIndex(0);
       setSlideProgress(0);
